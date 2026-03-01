@@ -40,7 +40,9 @@ This project performs basic arithmetic operations like addition, subtraction, mu
 
 ## 📸 Screenshot
 
-![Simple Calculator Screenshot](output.png)
+![Simple Calculator Screenshots]
+(input.png)
+(output.png)
 
 ---
 

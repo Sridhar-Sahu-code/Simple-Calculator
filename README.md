@@ -1,4 +1,4 @@
-# 🧮 Simple Calculator
+ # 🧮 Simple Calculator
 
 A simple calculator built using **HTML, CSS, and JavaScript**.  
 This project performs basic arithmetic operations like addition, subtraction, multiplication, and division.
@@ -40,7 +40,7 @@ This project performs basic arithmetic operations like addition, subtraction, mu
 
 ## 📸 Screenshot
 
-![Simple Calculator Screenshot](screenshot.png)
+![Simple Calculator Screenshot](output.png)
 
 ---
 
